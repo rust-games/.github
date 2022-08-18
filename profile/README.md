@@ -2,7 +2,7 @@
 
 > Games check have a release version 🔖
 
-- [x] Othello
-- [ ] Tic-Tac-Toe
+- [x] [Othello](https://github.com/ValentinColin/rust-othello)
+- [ ] [Chess](https://github.com/rust-games/chess)
 
 Others will arrive soon... 😉
